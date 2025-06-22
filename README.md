@@ -27,7 +27,7 @@ Sumber data: [Sumber Data](https://raw.githubusercontent.com/dicodingacademy/dic
 Setup environment:
 - Clone Repositories
 ```
-git clone https://github.com/josh209062/proyek-akhir.git
+git clone https://github.com/josh209062/proyek_akhir.git
 cd proyek-akhir
 ```
 - Membuat Virtual Environment
@@ -62,7 +62,7 @@ secara otomatis akan dialihkan ke website, jika tidak dapat mengetik link url(se
 http://localhost:8501/
 ```
 2. Menjalankan sistem secara online
-untuk menjalankan sistem secara online dapat mengakses link berikut: [Jaya Jaya Institut]()
+untuk menjalankan sistem secara online dapat mengakses link berikut: [Jaya Jaya Institut Prediction](https://students-performance-pred.streamlit.app/)
 
 ## Conclusion
 Jaya-Jaya Institut memiliki total 4424 mahasiswa dengan rincian sebagai berikut 2209 mahasiswa Graduate, 794 Mahasiswa Enrolled, dan 1421 Mahasiswa Dropout. Dengan Dropout Rate mahasiswanya mencapai 32.12%, yang mana hal ini tergolong tinggi. Berdasarkan hasil analisis ada beberapa fitur yang sangat mempengaruhi mahasiswa terkena Dropout seperti pada chart berikut:
